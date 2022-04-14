@@ -1,3 +1,3 @@
 # pos
 
-sistema de ventas
+sistema de ventas e inventarios
